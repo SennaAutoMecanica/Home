@@ -121,7 +121,7 @@ button:focus {
 	padding: 9px 35px;
 	text-align: center;
 	font-size: 15px;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 0px;
 	font-weight: 400;
 	border: 2px solid #ffffff;
@@ -210,7 +210,7 @@ button:focus {
 	padding: 14px 59px;
 	text-align: center;
 	font-size: 32px;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 0px;
 	font-weight: 400;
 	border: 2px solid #ffffff;
@@ -334,7 +334,7 @@ h5 {
 	font-size: 22px;
 	font-weight: 600;
 	margin-bottom: 10px;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 0.7px;
 	font-family: 'Roboto', sans-serif;
 }
@@ -353,7 +353,7 @@ h5 {
 	font-size: 22px;
 	font-weight: 300;
 	margin-bottom: 10px;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 0.7px;
 	font-family: 'Roboto', sans-serif;
 }
@@ -921,7 +921,7 @@ h5 {
 }
 
 .navbar-b .navbar-brand img {
-	width: 200px;
+	width: 76px;
 }
 
 .navbar-b .navbar-nav .dropdown-item.show .dropdown-menu,
@@ -1200,7 +1200,7 @@ h5 {
 .home-slider-btn {
 	font-size: 16px;
 	font-weight: 300;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 1px;
 	position: relative;
 	opacity: 1;
@@ -1222,7 +1222,7 @@ h5 {
 	padding: 9px 35px;
 	text-align: center;
 	font-size: 18px;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 0px;
 	font-weight: 400;
 	border: 0;
@@ -1614,7 +1614,7 @@ h5 {
 .product-item-details h3 {
 	font-size: 20px;
 	color: #ffffff;
-	text-transform: capitalize;
+	text-transform: none;
 	margin-bottom: 10px;
 }
 
@@ -1709,7 +1709,7 @@ hr {
 	padding: 9px 35px;
 	text-align: center;
 	font-size: 15px;
-	text-transform: capitalize;
+	text-transform: none;
 	letter-spacing: 0px;
 	font-weight: 400;
 	border: 2px solid #cf092c;
@@ -1855,7 +1855,7 @@ hr {
 	display: block;
 	color: #555;
 	font-size: 20px;
-	text-transform: capitalize;
+	text-transform: none;
 	line-height: 50px;
 	font-weight: 500;
 	display: inline-flex;
@@ -1922,18 +1922,18 @@ hr {
 
 .main-price {
 	position: absolute;
-	right: 25px;
+	right: 15px;
 	top: 0;
 	background: #be001c;
 	display: flex;
-	height: 80px;
-	width: 80px;
+	height: 63px;
+	width: 141px;
 	text-align: center;
 	vertical-align: middle;
 	align-items: center;
 	justify-content: center;
 	color: #ffffff;
-	font-size: 34px;
+	font-size: 22px;
 }
 
 .menu-product-details {
@@ -2045,7 +2045,7 @@ hr {
 	color: #c00113;
 	font-size: 50px;
 	font-weight: 500;
-	text-transform: capitalize;
+	text-transform: none;
 	margin-top: -5px;
 }
 
@@ -2053,7 +2053,7 @@ hr {
 	color: #c00113;
 	font-size: 70px;
 	font-weight: 500;
-	text-transform: capitalize;
+	text-transform: none;
 	margin-top: -5px;
 }
 
@@ -2157,7 +2157,7 @@ hr {
 	display: inline-block;
 	font-size: 15px;
 	font-weight: 500;
-	text-transform: capitalize;
+	text-transform: none;
 	margin: 0 5px;
 	padding: 22px 10px;
 	min-width: 140px;
@@ -3100,7 +3100,7 @@ textarea:focus {
 
 .footer-widget ul li a {
   color: #ffffff;
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .footer-widget ul li a i {
